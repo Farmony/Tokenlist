@@ -9,65 +9,18 @@
     "tags": {},
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/logos/venomswap-128x128.png",
     "keywords": [
-      "venomswap",
+      "Farmony",
       "community"
     ],
     "tokens": [
+      
       {
         "chainId": 1666600000,
-        "address": "0x495500b582ab72AD47Eb2D301469CE799BDdF9e4",
-        "symbol": "BIEM",
-        "name": "Boomers",
+        "address": "0x4cF79bA22180B66B4C5E06Fd501F7eD07996284E",
+        "symbol": "FARM",
+        "name": "Farmony",
         "decimals": 18,
-        "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/BOOM.png"
-      },
-      {
-        "chainId": 1666600000,
-        "address": "0x0a703601f8F641D4578A3d91C443e75F5a47a1A3",
-        "symbol": "CTS",
-        "name": "Clays Tipping Service",
-        "decimals": 18,
-        "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/CTS.png"
-      },
-      {
-        "chainId": 1666600000,
-        "address": "0x85a1DD919cd605aa2EAD4b01ff1190504BcAb609",
-        "symbol": "EUSK",
-        "name": "Mintbes Token",
-        "decimals": 18,
-        "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/EUSK.png"
-      },
-      {
-        "chainId": 1666600000,
-        "address": "0x3E018675c0Ef63eB361b9EF4bfEa3A3294C74C7b",
-        "symbol": "KURO",
-        "name": "Kuro Shiba",
-        "decimals": 9,
-        "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/KURO.png"
-      },
-      {
-        "chainId": 1666600000,
-        "address": "0x5415B30fc46317ef494fa96d755350437aE15ac9",
-        "symbol": "LFGT",
-        "name": "Let's Fucking Go Token",
-        "decimals": 18,
-        "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/LFGT.png"
-      },
-      {
-        "chainId": 1666600000,
-        "address": "0x7d0546dBb1Dca8108d99Aa389A8e9Ce0C40B2370",
-        "symbol": "LMA",
-        "name": "LMA-Art-Gallery",
-        "decimals": 18,
-        "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/LMA.png"
-      },
-      {
-        "chainId": 1666600000,
-        "address": "0x7531905C4C80b602CFf46Badc1671FbAD496f043",
-        "symbol": "MCONE",
-        "name": "McOne Coin",
-        "decimals": 9,
-        "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/MCONE.png"
+        "logoURI": "https://raw.githubusercontent.com/Farmony/Tokenlist/main/LOGO.png"
       },
       {
         "chainId": 1666600000,
