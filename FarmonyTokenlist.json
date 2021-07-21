@@ -19,24 +19,10 @@
       "symbol": "BNN",
       "name": "BANANA",
       "decimals": 18,
-      "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1MAGGOT.png"
+      "logoURI": "https://raw.githubusercontent.com/Farmony/Tokenlist/main/logo/FARM.png"
     },
-    {
-      "chainId": 1666600000,
-      "address": "0x01546F85fBB5e116b4a43fC3D1B1213D82aCDA95",
-      "symbol": "1MIL",
-      "name": "ONEMILLION",
-      "decimals": 18,
-      "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1MIL.png"
-    },
-    {
-      "chainId": 1666600000,
-      "address": "0xFd2a8F8cF7CFFeA4a613F1DFf39b22881D4a1f92",
-      "symbol": "1ROT",
-      "name": "RottenToken",
-      "decimals": 18,
-      "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1ROT.png"
-    },
+    
+    
     {
       "chainId": 1666600000,
       "address": "0x495500b582ab72AD47Eb2D301469CE799BDdF9e4",
