@@ -33,9 +33,9 @@
     },
     {
       "chainId": 1666600000,
-      "address": "0x5ed8E6B0a0B72939970d612977F8303F78be446d",
-      "symbol": "CATA",
-      "name": "Catalyst",
+      "address": "0xd61425dd36ca2fd99f0e0360212a450a61be0a52",
+      "symbol": "FERT",
+      "name": "Fertilizer",
       "decimals": 18,
       "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/CATA.png"
     },
